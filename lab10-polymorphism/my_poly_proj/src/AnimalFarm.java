@@ -61,5 +61,6 @@ public class AnimalFarm {
                 break;
             }
         }
+        scanner.close();
     }
 }
