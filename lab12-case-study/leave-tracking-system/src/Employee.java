@@ -31,3 +31,6 @@ public class Employee {
 // Create a LeaveRequest class with start date, end date, and status attributes
 // Create instances (objects) of these classes to represent different employees
 // and their leave requests
+// Add getters and setters for all attributes in Employee and LeaveRequest classes
+// Add validation in setters (to enable rejection of negative leave balances)
+// Create a method to calculate remaining leave balance after a request
